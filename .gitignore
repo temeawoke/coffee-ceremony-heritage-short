@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 .env
-outputs/
 logs/
 *.log
 .DS_Store
@@ -16,4 +15,5 @@ venv/
 *.py[cod]
 
 
+*.mp4
 .env
