@@ -1,0 +1,1 @@
+# Experiments\n\nRecord each real experiment as hypothesis -> method -> evidence/result -> decision. Do not enter assumed results.\n

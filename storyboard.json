@@ -1,0 +1,125 @@
+{
+  "project": {
+    "title": "The Ethiopian Coffee Ceremony",
+    "language": "am",
+    "subtitle_language": "en",
+    "target_duration_seconds": 70,
+    "aspect_ratios": [
+      "9:16",
+      "16:9"
+    ],
+    "visual_style": "Cinematic documentary photography, warm natural light, authentic Ethiopian coffee ceremony details, respectful cultural representation."
+  },
+  "shots": [
+    {
+      "id": "shot_01",
+      "duration_seconds": 7,
+      "visual_description": "An Ethiopian home at sunrise, preparing for a traditional coffee ceremony.",
+      "image_prompt": "Cinematic documentary photograph of a welcoming Ethiopian home at sunrise, warm golden natural light, traditional coffee ceremony setting, authentic details, realistic, respectful cultural representation, no text.",
+      "motion_prompt": "A gentle slow camera push toward the coffee ceremony setting; soft morning light changes subtly.",
+      "narration_am": "በኢትዮጵያ ቡና ከመጠጥነት በላይ ትርጉም አለው።",
+      "subtitle_en": "In Ethiopia, coffee means more than a drink.",
+      "music_cue": "opening_warm",
+      "reason": "Introduce the setting and central idea."
+    },
+    {
+      "id": "shot_02",
+      "duration_seconds": 7,
+      "visual_description": "A host carefully arranges the coffee ceremony materials.",
+      "image_prompt": "Cinematic documentary photograph of an Ethiopian coffee ceremony host arranging a jebena, small cups and a traditional woven tray, warm home interior, natural light, authentic details, no text.",
+      "motion_prompt": "The camera slowly pans across the arranged coffee ceremony objects; hands move gently into frame.",
+      "narration_am": "የቡና ሥነ ሥርዓት እንግዳ መቀበያና መተሳሰብ ምልክት ነው።",
+      "subtitle_en": "The coffee ceremony is a symbol of hospitality and connection.",
+      "music_cue": "gentle_continuation",
+      "reason": "Show the care and preparation behind the ceremony."
+    },
+    {
+      "id": "shot_03",
+      "duration_seconds": 7,
+      "visual_description": "Fresh green coffee beans being washed and prepared.",
+      "image_prompt": "Close-up cinematic documentary photograph of fresh green coffee beans being washed and prepared for a traditional Ethiopian coffee ceremony, authentic hands and utensils, natural textures, no text.",
+      "motion_prompt": "A close camera view follows the gentle movement of beans and water.",
+      "narration_am": "ባቄላው በጥንቃቄ ይዘጋጃል።",
+      "subtitle_en": "The beans are carefully prepared.",
+      "music_cue": "preparation",
+      "reason": "Show the first preparation step."
+    },
+    {
+      "id": "shot_04",
+      "duration_seconds": 7,
+      "visual_description": "Coffee beans roasting over charcoal.",
+      "image_prompt": "Cinematic close-up of coffee beans roasting in a traditional pan over charcoal during an Ethiopian coffee ceremony, gentle smoke, warm firelight, realistic documentary style, no text.",
+      "motion_prompt": "Coffee beans are gently stirred as a thin trail of smoke rises; steady camera.",
+      "narration_am": "በሚጠበስበት ጊዜ የቡናው መዓዛ ቤቱን ይሞላል።",
+      "subtitle_en": "As the beans roast, their aroma fills the home.",
+      "music_cue": "warm_build",
+      "reason": "Capture the recognizable aroma and sensory experience."
+    },
+    {
+      "id": "shot_05",
+      "duration_seconds": 7,
+      "visual_description": "Roasted coffee beans being ground.",
+      "image_prompt": "Documentary close-up of roasted Ethiopian coffee beans being ground using a traditional mortar and pestle, warm light, detailed textures, authentic setting, no text.",
+      "motion_prompt": "Hands gently grind the roasted beans in a traditional mortar; close steady framing.",
+      "narration_am": "የተጠበሰው ቡና ተፈጭቶ ለማፍላት ይዘጋጃል።",
+      "subtitle_en": "The roasted beans are ground and prepared for brewing.",
+      "music_cue": "preparation",
+      "reason": "Show the next stage of preparation."
+    },
+    {
+      "id": "shot_06",
+      "duration_seconds": 7,
+      "visual_description": "Coffee brewing in a traditional jebena.",
+      "image_prompt": "Traditional Ethiopian clay jebena coffee pot brewing over a small heat source, gentle steam, intimate home setting, cinematic documentary photography, no text.",
+      "motion_prompt": "Steam rises gently from the jebena; slow camera movement toward the pot.",
+      "narration_am": "ቡናው በጀበና ውስጥ በቀስታ ይፈላል።",
+      "subtitle_en": "The coffee slowly brews in the jebena.",
+      "music_cue": "calm_brewing",
+      "reason": "Highlight the traditional brewing vessel and process."
+    },
+    {
+      "id": "shot_07",
+      "duration_seconds": 7,
+      "visual_description": "Coffee being poured into small traditional cups.",
+      "image_prompt": "Cinematic close-up of Ethiopian coffee being poured from a traditional jebena into small cups arranged on a woven tray, warm natural light, realistic documentary style, no text.",
+      "motion_prompt": "A steady stream of coffee is poured carefully into small cups; gentle camera follow.",
+      "narration_am": "ቡናው በክብር ለተሰበሰቡት ይቀርባል።",
+      "subtitle_en": "Coffee is served with care to everyone gathered.",
+      "music_cue": "serving",
+      "reason": "Show the sharing and serving moment."
+    },
+    {
+      "id": "shot_08",
+      "duration_seconds": 7,
+      "visual_description": "Family and guests sharing coffee and conversation.",
+      "image_prompt": "Warm cinematic documentary photograph of an Ethiopian family and guests sharing coffee together in a welcoming home, natural expressions, traditional coffee cups, respectful authentic representation, no text.",
+      "motion_prompt": "Guests exchange gentle smiles and conversation; slow camera drift across the gathering.",
+      "narration_am": "በቡና ዙሪያ ቤተሰብና ጎረቤት በአንድነት ይሰበሰባሉ።",
+      "subtitle_en": "Families and neighbours gather in unity around coffee.",
+      "music_cue": "community",
+      "reason": "Communicate community, belonging and hospitality."
+    },
+    {
+      "id": "shot_09",
+      "duration_seconds": 7,
+      "visual_description": "A close view of coffee cups and the shared ceremony.",
+      "image_prompt": "Poetic cinematic close-up of small Ethiopian coffee cups on a traditional woven tray, people softly visible in the background, warm light, documentary photography, no text.",
+      "motion_prompt": "Slow focus shift from the coffee cups to the gathering in the background.",
+      "narration_am": "ይህ ልማድ ወግን፣ ወዳጅነትንና ባህልን ያገናኛል።",
+      "subtitle_en": "This tradition brings together heritage, friendship and culture.",
+      "music_cue": "emotional_theme",
+      "reason": "Reflect on the meaning of the tradition."
+    },
+    {
+      "id": "shot_10",
+      "duration_seconds": 7,
+      "visual_description": "The coffee ceremony setting in a peaceful closing scene.",
+      "image_prompt": "Beautiful final cinematic view of an Ethiopian coffee ceremony setting with jebena, cups, incense and woven tray, warm evening light, documentary photography, no text, space for end title.",
+      "motion_prompt": "Slow gentle pullback from the coffee ceremony setting; peaceful fade toward the end.",
+      "narration_am": "ቡና የኢትዮጵያ መስተንግዶ፣ አንድነትና ባህል ሕያው ምልክት ነው።",
+      "subtitle_en": "Coffee is a living symbol of Ethiopian hospitality, unity and heritage.",
+      "music_cue": "closing",
+      "reason": "End with the central cultural message."
+    }
+  ]
+}

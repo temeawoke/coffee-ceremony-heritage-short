@@ -1,0 +1,1 @@
+# Costs and performance\n\nRecord actual provider, model, request parameters, latency, GPU minutes, actual payment and any list-price estimate. Do not invent measurements.\n

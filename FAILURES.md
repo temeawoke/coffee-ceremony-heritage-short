@@ -1,0 +1,1 @@
+# Failure journal\n\nRecord the date, stage, error, attempted fixes, final resolution and any fallback used.\n
